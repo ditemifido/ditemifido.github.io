@@ -1,8 +1,6 @@
 ---
 layout: post
 title: La pettorina dei suoi sogni... e dei nostri!
-categories: comunicazione, strumenti
-permalink: /:year/:month/:day/:title/
 summary: >
         Il cane è più libero nei movimenti, infatti questo tipo di pettorina non va ad agire a livello dell'articolazione della spalla in modo da evitare problemi fisici soprattutto nel periodo di accrescimento del cucciolo.
 tumb: /images/P1020916.jpg

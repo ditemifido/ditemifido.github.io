@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Bambini e cani, una relazione che ha bisogno di conoscenze
-categories: bambini e cani, citazioni, comunicazione, libri, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Il rapporto tra un bambino e un cane va costruito in modo corretto, è necessario essere cauti, prendere delle precauzioni e acquisire delle conoscenze indispensabili, perché diventi perfetto e mai pericoloso.
 tumb: /images/Anna-e-Ariel.jpg

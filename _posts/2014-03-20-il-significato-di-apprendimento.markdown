@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  Il significato di apprendimento
-categories: citazioni
-permalink: /:year/:month/:day/:title/
 summary: >
          Cosa significa veramente apprendimento? Esistono molte definizioni, ma poche calzano veramente bene al suo reale significato. L’esecuzione meccanica ed automatica di un comportamento, non ha molto a che fare con l’apprendere.
 tumb: /images/Anna-e-Ariel.jpg

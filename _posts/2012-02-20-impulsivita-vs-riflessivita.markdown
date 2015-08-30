@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Impulsività vs riflessività
-categories: relazione
-permalink: /:year/:month/:day/:title/
 summary: >
       Molto spesso il comportamento impulsivo del cane causa problemi al   proprietario, che si trova in difficoltà nella gestione del suo amico a quattro zampe. Il comportamento riflessivo permette al cane di essere più libero, in quanto avrà una maggiore padronanza del proprio comportamento.
 tumb: /images/Anna-e-Ariel.jpg

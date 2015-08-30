@@ -2,8 +2,6 @@
 layout: post
 title: >
        SEMINARIO “VITA DI BRANCO: struttura sociale e comunicazione” di Michele Minunno
-categories: comunicazione, relazione, seminari
-permalink: /:year/:month/:day/:title/
 summary: >
         Michele in questi anni ha studiato i gruppi di cani semiselvatici e randagi che vivono nella sua regione (Puglia) e ha avuto così modo di osservare le dinamiche sociali che avvengono all’interno dei loro branchi.
 tumb: /images/Anna-e-Ariel.jpg

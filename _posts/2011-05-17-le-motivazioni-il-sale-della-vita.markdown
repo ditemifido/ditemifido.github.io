@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Le motivazioni sono il sale della vita!
-categories: citazioni, comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
        Le motivazioni sono il “camburante” che mette in moto il soggetto e gli dà uno scopo per attivarsi. Ogni individuo appartenente ad una determinata specie ricerca nel mondo qualcosa di peculiare ed esclusivo.
 tumb: /images/P1020916.jpg

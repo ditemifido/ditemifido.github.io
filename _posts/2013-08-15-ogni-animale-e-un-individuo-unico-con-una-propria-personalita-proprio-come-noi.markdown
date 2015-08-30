@@ -2,8 +2,6 @@
 layout: post
 title:  >
         Ogni animale è un individuo unico, con una propria personalità, proprio come noi!
-categories: citazioni
-permalink: /:year/:month/:day/:title/
 summary: >
          Ogni animale, ognuno di noi, ha una sua propria irripetibile identità, una sua propria disposizione individuale, emozionale e cognitiva, in termini di generazioni passate e presenti, in termini di esperienze passate e presenti, in un continuo processo evolutivo che guarda al futuro.
 tumb: /images/P1020916.jpg

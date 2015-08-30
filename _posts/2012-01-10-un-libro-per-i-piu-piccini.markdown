@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Un libro per i più piccini!
-categories: bambini e cani, citazioni, libri
-permalink: /:year/:month/:day/:title/
 summary: >
       Il mio Cappuccetto Rosso, di Patrizia Legler, è la reinterpretazione di una storia classica per scoprire il linguaggio segreto dei cani.
 tumb: /images/Anna-e-Ariel.jpg

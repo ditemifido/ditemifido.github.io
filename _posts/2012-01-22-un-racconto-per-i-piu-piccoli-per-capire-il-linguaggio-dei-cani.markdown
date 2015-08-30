@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Un racconto per i più piccoli per capire il linguaggio dei cani
-categories: bambini e cani, citazioni, comunicazione, libri
-permalink: /:year/:month/:day/:title/
 summary: >
          "Turid, la fatina dei cani", di Margarita Truyols Fluxá e Irene Mulet Domingo, è uno splendido racconto per i più piccini.
 tumb: /images/Anna-e-Ariel.jpg

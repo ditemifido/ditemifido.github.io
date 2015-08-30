@@ -1,8 +1,6 @@
 ---
 layout: post
 title: I segnali calmanti...
-categories: comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Negli anni ’80, l’etologa norvegese Turid Rugaas dimostrò che i cani hanno le stesse capacità sociali dei lupi, soltanto che, a causa dell’addomesticazione, i loro segnali di comunicazione erano più difficili da leggere.
 tumb: /images/P1020916.jpg

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Un punto di incontro, le emozioni!
-categories: citazioni, comunicazione, curiosità, libri, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Ti basta osservare un animale per cogliere le emozioni sul suo viso, nel suo sguardo e nella sua postura. Gli animali sono molto chiari nelle loro espressioni, se solo ci prendiamo il disturbo di osservarli e di capire.
 tumb: /images/Anna-e-Ariel.jpg

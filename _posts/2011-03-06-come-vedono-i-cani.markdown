@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Come vedono i cani?
-categories: curiosità
-permalink: /:year/:month/:day/:title/
 summary: >
        Moltissimi pensano che i nostri amici a quattro zampe vedano tutto in bianco e grigio, ma non è affatto così! Infatti riescono a percepire dei colori, ma solo alcuni... 
 tumb: /images/P1020916.jpg

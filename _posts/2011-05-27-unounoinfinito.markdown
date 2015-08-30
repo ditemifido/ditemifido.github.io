@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Un libro speciale, "uno+uno=infinito"
-categories: citazini, libri
-permalink: /:year/:month/:day/:title/
 summary: >
         Alle volte i cani mangiano l’erba. Ispezionano il prato con cura e sembrano scegliere gli steli più appropriati ai loro bisogni. Generalmente brucano steli lunghi, piatti e ruvidi al tatto; li mangiano e inghiottono, anche con avidità.
 tumb: /images/P1020916.jpg

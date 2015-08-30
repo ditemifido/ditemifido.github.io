@@ -1,8 +1,6 @@
 ---
 layout: post
 title: L'abbaio, il suono di un linguaggio, di Turid Rugaas
-categories: citazioni, libri
-permalink: /:year/:month/:day/:title/
 summary: >
         I versi che possono produrre i cani abbaiare, uggiolare, ringhiare, ululare e molti altri suoni sono tutti elementi del linguaggio della specie e hanno l’obiettivo di comunicare qualcosa al mondo che li circonda ed esprimere i propri sentimenti in quel momento.
 tumb: /images/Anna-e-Ariel.jpg

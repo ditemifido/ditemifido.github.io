@@ -3,8 +3,6 @@ layout: post
 featured: true
 selected: true
 title: Il cucciolo, un concentrato di energia e curiosità!
-categories: citazioni, mondo cuccioli
-permalink: /:year/:month/:day/:title/
 summary: >
       Il cucciolo ha bisogno di fare le esperienze giuste per diventare un cane equilibrato e in grado di partecipare alle relazioni sociali; questo apprendistato si compie all’inizio attraverso il rapporto con la madre e i fratelli, poi è affidato a noi.
 tumb: /images/P1020916.jpg

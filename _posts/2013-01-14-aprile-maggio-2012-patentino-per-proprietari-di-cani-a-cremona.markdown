@@ -2,8 +2,6 @@
 layout: post
 title:  >
         Aprile-maggio 2012: patentino per proprietari di cani a Cremona
-permalink: /:year/:month/:day/:title/
-categories: relazione, comunicazione, eventi
 summary: >
         Il Comune di Cremona, in collaborazione con il Dipartimento di Prevenzione Veterinaria dell'Asl di Cremona e con l'Ordine Medici Veterinari di Cremona, organizza ciclicamente un percorso formativo per proprietari di cani con rilascio del "Patentino".
 tumb: /images/P1080764b.jpg

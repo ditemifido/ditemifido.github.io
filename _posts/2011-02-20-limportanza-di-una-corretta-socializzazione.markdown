@@ -1,8 +1,6 @@
 ---
 layout: post
 title: L'importanza di una corretta socializzazione primaria
-categories: comunicazione, mondo cuccioli
-permalink: /:year/:month/:day/:title/
 summary: >
         Far fare al nostro cucciolo una buona socializzazione primaria (intraspecifica) è fondamentale per farlo crescere nel modo migliore e farlo diventare un cane felice ed equilibrato.
 tumb: /images/P1020916.jpg

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Un senso speciale
-categories: citazioni
-permalink: /:year/:month/:day/:title/
 summary: >
         Anzitutto annusa il vento in cerca di qualche informazione utile, ma se neanche questo serve, gioca l’ultima carta per fare la spesa: mette il naso a terra e cerca una traccia.
 tumb: /images/P1020916.jpg

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Ode al cane - Pablo Neruda
-categories: citazioni
-permalink: /:year/:month/:day/:title/
 summary: >
         Il cane mi domanda e non rispondo. Salta, corre pei campi e mi domanda senza parlare e i suoi occhi sono due richieste umide, due fiamme liquide che interrogano e io non rispondo, non rispondo perché non so, non posso dir nulla.
 tumb: /images/Anna-e-Ariel.jpg

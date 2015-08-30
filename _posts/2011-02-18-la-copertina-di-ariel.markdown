@@ -2,8 +2,6 @@
 layout: post
 featured: true
 title: La copertina di Ariel
-categories: strumenti
-permalink: /:year/:month/:day/:title/
 summary: >
         Una vecchia coperta, un semplice asciugamano, un caldo plaid in inverno,... può diventare per il vostro cane un vero punto di riferimento, un luogo sicuro.
 tumb: /images/P1020916.jpg

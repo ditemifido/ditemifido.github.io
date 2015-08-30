@@ -2,8 +2,6 @@
 layout: post
 title:  >
         Le classi di socializzazione per cuccioli
-categories: relazioni
-permalink: /:year/:month/:day/:title/
 summary: >
          I cuccioli devono imparare a interagire con gli altri cani e il mondo che li circonda attraverso esperienze corrette, in questo modo diventeranno adulti equilibrati e capaci di stare in una situazione sociale senza stress per loro e per il proprietario.
 tumb: /images/P1080764b.jpg

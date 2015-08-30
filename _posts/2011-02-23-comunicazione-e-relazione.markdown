@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Comunicazione e relazione
-categories: citazioni, comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Quindi io spero che iniziate ad osservare, a capire meglio il vostro cane e sentirvi più vicini alla perfetta relazione uomo-cane. Finora tale relazione è stata sostanzialmente a senso unico: noi chiediamo e lui risponde.
 tumb: /images/P1020916.jpg

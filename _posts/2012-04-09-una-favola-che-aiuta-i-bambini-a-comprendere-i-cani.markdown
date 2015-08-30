@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  Una favola che aiuta i bambini a comprendere i cani
-permalink: /:year/:month/:day/:title/
-categories: bambini e cani, citazioni, comunicazione, libri
 summary: >
         Questo libro è una bellissima favola che ha come protagonista un bambino di nome Giacomino e un cane grande e bianco. Giacomino entra nel Paese del Silenzio dove vige una regola: in questo posto nessuno può parlare...
 tumb: /images/P1080764b.jpg

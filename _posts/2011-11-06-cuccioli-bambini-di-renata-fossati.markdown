@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Cuccioli & Bambini, di Renata Fossati
-categories: bambini e cani, citazioni, comunicazione, mondo cuccioli, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
        La relazione produce numerosi benefici ma affinché si sviluppi un legame sereno e produttivo occorre creare condizioni che influenzino positivamente l’andamento del rapporto.
 tumb: /images/Anna-e-Ariel.jpg

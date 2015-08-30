@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  Qui ed ora
-categories: citazioni
-permalink: /:year/:month/:day/:title/
 summary: >
          Non esiste IL cane.
          Esiste QUEL cane, in QUELLA situazione, in QUEL contesto, in QUEL giorno, in QUEL momento.

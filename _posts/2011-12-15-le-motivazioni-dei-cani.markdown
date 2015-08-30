@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Le motivazioni dei cani
-categories: citazioni, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
       Per comprendere veramente cosa desiderano i cani, cosa ricercano nel mondo, quali attività sono portati a fare e quali oggetti sono importanti per loro, in quanto risaltano nella realtà, è indispensabile conoscere le loro motivazioni.  
 tumb: /images/Anna-e-Ariel.jpg

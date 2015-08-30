@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Il cane, un animale altamente sociale!
-categories: comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Per il cane far parte di un gruppo è tutto! Il cane si vede non come singolo individuo, ma il suo essere è nel gruppo. Per lui è tutto un gioco di squadra e come tale ogni soggetto deve avere un ruolo all’interno di essa.
 tumb: /images/Anna-e-Ariel.jpg

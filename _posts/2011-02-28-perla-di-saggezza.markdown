@@ -3,8 +3,6 @@ layout: post
 title: Perla di saggezza
 featured: true
 selected: true
-categories: citazioni
-permalink: /:year/:month/:day/:title/
 summary: >
         Per imparare a conoscere veramente bene un animale intelligente, di tanto in tanto lo si deve lasciare libero.
 tumb: /images/IMG_20150828_195630.jpg

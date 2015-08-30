@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Un legame unico e speciale
-categories: citazioni, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
       La scelta del padrone da parte di un buon cane è un fenomeno magnifico e misterioso. Con rapidità sorprendente, spesso in pochissimi giorni, si stabilisce un legame che è di gran lunga più saldo di tutti...
 tumb: /images/Anna-e-Ariel.jpg

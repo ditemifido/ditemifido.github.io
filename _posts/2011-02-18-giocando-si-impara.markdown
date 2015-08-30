@@ -3,8 +3,6 @@ layout: post
 featured: true
 selected: true
 title: Giocando si impara
-categories: comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
        Attraverso il gioco i cani, così come tutti i mammiferi, apprendono tantissime cose: il cucciolo impara a conoscere sé stesso, i propri limiti e le proprie capacità. 
 tumb: /images/P1030710.jpg

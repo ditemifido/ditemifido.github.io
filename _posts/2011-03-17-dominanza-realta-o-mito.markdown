@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Dominanza, realtà o mito?
-categories: citazioni, libri
-permalink: /:year/:month/:day/:title/
 summary: >
       Non abbiamo nessun bisogno di essere il soggetto Alfa, il dominante o il capo-branco. Dobbiamo solo essere proprietari responsabili nel gestire il nostro cane.
 tumb: /images/P1020916.jpg

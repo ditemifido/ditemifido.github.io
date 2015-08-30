@@ -1,8 +1,6 @@
 ---
 layout: post
 title: La comunicazione del cane, conoscerla per comprenderlo.
-categories: citazioni, comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
       Per relazionarsi in modo corretto con il proprio cane occorre conoscere alcuni dei suoi più importanti segnali comunicativi, essi ci forniscono in modo inequivocabile informazioni precise circa le sue disposizioni e interazioni.
 tumb: /images/P1020916.jpg

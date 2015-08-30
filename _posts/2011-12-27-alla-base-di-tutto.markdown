@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Alla base di tutto
-categories: citazioni, comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Le nostre reazioni eccessive sono spesso causate dal non capire ciò che sta succedendo. La nostra insicurezza trae origine dalla mancanza di conoscenze specifiche e tendiamo a reagire esageratamente a ciò che non conosciamo.
 tumb: /images/Anna-e-Ariel.jpg

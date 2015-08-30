@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Riflessione sulla "fiducia"
-categories: comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Mi domando: quali osservazioni sulla relazione tra il cane ed il suo proprietario ci offrono indizi per leggere nel loro intimo, quei suggerimenti utili a decifrare le emozioni che ci parlano della reciproca fiducia?
 tumb: /images/P1020916.jpg

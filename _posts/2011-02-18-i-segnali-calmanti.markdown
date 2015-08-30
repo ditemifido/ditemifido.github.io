@@ -2,8 +2,6 @@
 layout: post
 featured: true
 title: Un libro fondamentale
-categories: citazioni, comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         ...Essere capaci di comunicare, essere realmente capiti dai cani, è una sensazione stupenda sia per le persone sia per i cani. I "segnali calmanti" sono la chiave, e vedere attraverso quella porta aperta è stato per me come vivere il sogno dell'infanzia del parlare con gli animali.
 tumb: /images/P1020916.jpg

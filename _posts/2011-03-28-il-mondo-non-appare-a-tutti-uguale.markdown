@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Il mondo non appare a tutti uguale
-categories: citazioni
-permalink: /:year/:month/:day/:title/
 summary: >
        E' il modo in cui rappresentiamo il mondo internamente a determinare quel che sentiamo e quel che facciamo.
 tumb: /images/P1020916.jpg

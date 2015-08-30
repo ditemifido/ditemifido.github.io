@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Oddio la passeggiata!
-categories: comunicazione, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Per molti proprietari la passeggiata è un vero e proprio incubo. Il più delle volte il cane tira moltissimo e passa tutto il tempo con il naso per terra senza curarsi minimamente del suo compagno umano attaccato all'altro capo del guinzaglio...
 tumb: /images/P1020916.jpg

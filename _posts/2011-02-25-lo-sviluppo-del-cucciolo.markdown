@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Lo sviluppo del cucciolo
-categories: mondo cuccioli, relazione
-permalink: /:year/:month/:day/:title/
 summary: >
         Dagli ultimi studi si è visto che i cuccioli cominciano ad apprendere già nel grembo materno, infatti già tre settimane prima del parto percepiscono le carezze fatte nel ventre della madre.
 tumb: /images/P1020916.jpg

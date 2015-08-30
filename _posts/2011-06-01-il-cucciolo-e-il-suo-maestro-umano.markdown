@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Il cucciolo e il suo "maestro" umano
-categories: citazioni, mondo cuccioli
-permalink: /:year/:month/:day/:title/
 summary: >
       Educare il cucciolo significa aiutarlo nella crescita e accompagnarlo nelle varie fasi del suo sviluppo per farlo diventare un adulto sereno ed equilibrato.
 tumb: /images/P1020916.jpg
