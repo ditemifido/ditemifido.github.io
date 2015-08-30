@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Qui ed ora
+categories: citazioni
+permalink: /:year/:month/:day/:title/
+summary: >
+         Non esiste IL cane.
+         Esiste QUEL cane, in QUELLA situazione, in QUEL contesto, in QUEL giorno, in QUEL momento.
+tumb: /images/Anna-e-Ariel.jpg
+more: true
+---
+<blockquote cite="Francesco De Giorgio">
+<p>Non esiste <em>il</em> cane. Esiste <em>quel</em> cane, in <em>quella</em> situazione, in <em>quel</em> contesto, in <em>quel</em> giorno, in <em>quel</em> momento.</p>
+</blockquote>
+<cite>
+  Francesco De Giorgio
+</cite>

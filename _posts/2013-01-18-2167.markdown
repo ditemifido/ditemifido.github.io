@@ -1,0 +1,15 @@
+---
+layout: post
+title: La relazione...
+categories: citazioni, relazione
+permalink: /:year/:month/:day/:title/
+summary: >
+        È corretto (ed è un grande miglioramento) cominciare a pensare alle due parti in interazione come a due occhi, ciascuno dei quali ha una visione monoculare di ciò che accade, e che insieme consentono una visione binoculare in profondità. Questa doppia visione è la relazione.
+tumb: /images/Anna-e-Ariel.jpg
+more: true
+---
+<blockquote cite="Gregory Bateson">
+<p>È corretto (ed è un grande miglioramento) cominciare a pensare alle due parti in interazione come a due occhi, ciascuno dei quali ha una visione monoculare di ciò che accade, e che insieme consentono una visione binoculare in profondità. Questa doppia visione è la relazione.</p></blockquote>
+<cite>
+  Gregory Bateson
+</cite>

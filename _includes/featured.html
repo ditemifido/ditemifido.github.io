@@ -1,0 +1,23 @@
+  <section class="posts">
+    <ul class="Grid">
+      {% for post in site.posts %}
+        {% if post.featured == true %}
+          <li class="Grid-cell-post">
+            <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
+            <article>
+              <h2>
+                <a href="{{ post.url | prepend: site.baseurl }}#title">{{ post.title }}</a>
+              </h2>
+              <img class="filtered" src="{{ post.tumb }}">
+              <p>
+                {{ post.summary }}
+              </p>
+              {% if post.more == true %}
+              <a class="more" href="{{ post.url | prepend: site.baseurl }}#title">Leggi ancora...</a>
+              {% endif %}
+            </article>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>

@@ -1,0 +1,23 @@
+---
+layout: post
+title: Lo sviluppo del cucciolo
+categories: mondo cuccioli, relazione
+permalink: /:year/:month/:day/:title/
+summary: >
+        Dagli ultimi studi si è visto che i cuccioli cominciano ad apprendere già nel grembo materno, infatti già tre settimane prima del parto percepiscono le carezze fatte nel ventre della madre.
+tumb: /images/P1020916.jpg
+more: true
+---
+Dagli ultimi studi si è visto che i cuccioli cominciano ad apprendere già nel grembo materno, infatti già tre settimane prima del parto percepiscono le carezze fatte nel ventre della madre. Per questo è importante iniziare fin da subito a manipolare la gestante, attraverso il Deep Contact (un massaggio profondo ideato dall’istruttrice cinofila Daniela Panozzo). Questo permette ai cuccioli di sviluppare maggiormente la loro sensibilità tattile, in modo da nascere già predisposti al contatto con l’uomo. Inoltre questa tecnica di massaggio è molto rilassante e permette alla madre di vivere la gravidanza con minor stress, fattore senz’altro positivo anche per i cuccioli, in quanto percepiscono tutte le emozioni della cagnolina. Se la madre vive esperienze negative e traumatiche durante questo periodo, è facile che i suoi figli nascano più paurosi e timidi, mentre se ha vissuto vicende piacevoli e rilassanti, i cuccioli saranno molto più fiduciosi nei confronti della vita.
+
+Dopo il parto, nelle prime due settimane di vita, i cuccioli sono ciechi e sordi, i loro sensi sono l’olfatto e il tatto, per questo è importante iniziare a manipolarli fin da subito, facendo attenzione ad essere molto delicati. In questo modo i cagnolini impareranno a essere toccati da noi e la madre sarà meno diffidente e più tollerante nei nostri confronti. In questo periodo i movimenti dei cuccioli sono finalizzati solo alla ricerca della mammella e del calore del corpo materno.
+
+Dalla terza-quarta settimana di vita, i cuccioli si muovono meglio e cominciano a fare le loro prime scoperte! Iniziano ad esplorare l'ambiente che li circonda, tenendo come punto di riferimento la loro madre: fanno la cosiddetta esplorazione “a stella” (si allontanano dalla madre per esplorare e poi ritornano da lei per sentirsi sicuri e protetti, poi ritornano a guardare il mondo e poi vanno da lei, e così via…). La cagnolina è la loro **base sicura primaria**, è sempre presente e sa rassicurarli e proteggerli all’occorrenza, ma li stimola anche ad esplorare tutto quello che li circonda, solo così cresceranno coraggiosi e forti. In questo periodo si può iniziare ad arricchire il loro ambiente con giochi ed oggetti vari, in modo da abituarli anche a suoni ed odori nuovi.
+
+Dalla quinta settimana di vita inizia la **fase di socializzazione**: la curiosità del cucciolo aumenta moltissimo, inizia a conoscere e a rapportarsi non solo con i suoi familiari, ma anche con le persone e gli altri suoi simili. In questo periodo è importante che i cuccioli abbiamo la possibilità di esplorare nuovi ambienti e fare molte esperienze, in modo da crescere equilibrati e sicuri. Bisogna però prestare attenzione a far fare al cagnolino sempre esperienze positive e non troppo gravose per lui, infatti metterlo di fronte a una situazione nuova troppo impegnativa può risultare negativo… a ogni età la giusta esperienza!!!
+
+Cani ben socializzati nei primi due mesi di vita difficilmente saranno paurosi e aggressivi una volta diventati adulti, quindi è fondamentale fare un buon lavoro in questo primo periodo della loro vita, in modo da arricchire il loro bagaglio di esperienze, solo così di fronte ad una situazione sconosciuta avranno i mezzi e le capacità per superarla nel migliore dei modi. Avremo così un cucciolo *curioso e coraggioso* che diventerà un cane adulto *equilibrato e falice*
+
+Il momento migliore per l’adozione sono i due mesi d’età, è fondamentale che prima stia con la madre ed i fratelli, perché solo rimanendo con la base sicura primaria e giocando con i fratelli, imparerà le regole per vivere con gli altri e i comportamenti per crescere in modo equilibrato.
+
+I cuccioli, una volta adottati, dovranno trovare nel proprietario una guida e una buona **base sicura secondaria** dovrà insegnargli il distacco, proteggerlo, essere una figura presente, coerente e rassicurante, ma allo stesso tempo dovrà permettergli di esplorare e fare nuove esperienze per continuare a conoscere il mondo che lo circonda, proseguendo così il lavoro iniziato dalla madre… praticamente dovrà essere una brava maestra d’asilo.

@@ -1,0 +1,41 @@
+---
+layout: post
+title: >
+       SEMINARIO “VITA DI BRANCO: struttura sociale e comunicazione” di Michele Minunno
+categories: comunicazione, relazione, seminari
+permalink: /:year/:month/:day/:title/
+summary: >
+        Michele in questi anni ha studiato i gruppi di cani semiselvatici e randagi che vivono nella sua regione (Puglia) e ha avuto così modo di osservare le dinamiche sociali che avvengono all’interno dei loro branchi.
+tumb: /images/Anna-e-Ariel.jpg
+more: true
+---
+Il 25-26 febbraio 2012 ho partecipato ad un interessantissimo seminario tenuto da Michele Minunno, che trattava appunto della struttura sociale all’interno dei branchi di cani.
+Michele in questi anni ha studiato i gruppi di cani semiselvatici e randagi che vivono nella sua regione (Puglia) e ha avuto così modo di osservare le dinamiche sociali che avvengono all’interno dei loro branchi.
+
+Qui di seguito cercherò di riassumere i punti salienti delle due giornate, anche se cercare di tralasciare qualcosa sarà difficile, visto che il suo lavoro è entusiasmante, innovativo e veramente unico.
+
+**La dominanza esiste!** Ma non dobbiamo dargli un significato negativo. Più precisamente dobbiamo fare una distinzione tra “agonistic dominance” (un cane che dà pressione a un altro cane e questo si sottomette, quindi un soggetto che cerca la sottomissione dell’altro) e “formal dominance” (tipica di un leader naturale, il cane non richiede la sottomissione degli altri, perché questi hanno rispetto per il leader e si sottomettono di loro volontà). Un leader naturale ha una personalità specifica ed è capace di dare informazioni e fare le scelte giuste, quindi influenza il comportamento degli altri. Un cane che deve dimostrare qualcosa o è un leader inesperto e non viene riconosciuto come tale oppure non è portato a fare il leader. Dobbiamo ben capire che la dominanza indica una RELAZIONE. Quindi non ha alcun senso parlare di dominanza e sottomissione in cani che non appartengono allo stesso gruppo, perché non c’è alcuna relazione tra di loro.
+
+**La struttura sociale del branco dipende dall’ambiente** in cui vive, questo significa che la struttura del gruppo è influenzata da tutto ciò che c’è intorno. Gli spostamenti li decide il leader. Michele ha osservato che i branchi seguono sempre gli stessi sentieri (hanno delle vere e proprie “piste”) e poi hanno dei luoghi (“resting sites”) dove si fermano a riposare, a mangiare gli ossi, a giocare...
+
+**La struttura di un branco non è fissa**, è estremamente variabile e ogni individuo ha una sua personalità; ci sono cani più calmi, sicuri, che sono più portati a fare il leader, mentre altri più reattivi, meno sicuri, che sono quelli che tendono a mostrare aggressività e meno portati a fare il leader. Ogni individuo, dal punto di vista caratteriale, è legato alle esperienze che ha vissuto, oltre che alla propria personalità.
+
+**All’interno del branco ci sono diversi ruoli**: c’è il leader (“formal dominance”), gli esecutori (sono il “braccio destro” del leader e hanno il suo appoggio), le tate (sono le giovani femmine che si prendono cura dei cuccioli quando il resto del branco è via e badano alla loro educazione, insegnando l’equilibrio nel gioco ad esempio, in modo che diventino equilibrati nelle relazioni), le sentinelle (entrano in allarme se c’è un pericolo o un’invasione del loro territorio) e i cani che allentano le tensioni che si creano all’interno del gruppo (sono cani molto bravi a cambiare strategia).
+
+**Il gruppo si rafforza con le attività di gruppo**, che possono essere il gioco (può essere di vari tipi, come quello di lotta, di predazione, di status, con oggetti; rafforza il legame tra i membri del gruppo), la formazione e l’allenamento (non vanno confusi con il gioco di lotta e di predazione, sono delle attività che servono per chiarire i ruoli e i compiti dei vari membri all’interno del gruppo, aumenta l’affinità tra i cani, serve a preparare i soggetti a risolvere i problemi sociali che si possono presentare e a migliorare la comunicazione all’interno del gruppo), la caccia, il riposo (non è necessario fare qualcosa, anche condividere insieme un momento di riposo rafforza i legami sociali), le marcature (ci sono vari tipi di marcature: singole, di gruppo, attraverso l’urina e le feci, raspare con gli arti sul suolo, poi c’è la marcatura su altri individui attraverso il contatto che ha uno scopo sociale, di relazione; si viene a creare un vero e proprio odore di gruppo all’interno dello stesso branco), il grooming (termine che sta ad indicare la pulizia e l’igiene personale, quando un soggetto lo fa ad un altro ha una forte valenza sociale e serve per rafforzare la struttura sociale di un gruppo) e l’alimentazione (il cibo viene usato per stabilire delle regole sociali, i cani possono usare il cibo per dare lo stato sociale; il cane deve avere autocontrolli sul cibo, è proprio un caso di educazione, di comunicazione).
+
+**Di cosa ha bisogno un cane?** 1) di una stimolazione ambientale costante e 2) di una buona relazione con il proprietario (creare un vero e proprio gruppo sociale). Dobbiamo tenere in considerazione cosa è importante per il cane ed è fondamentale valutare queste due variabili per il recupero dei cani problematici. Nella vita libera si è visto che se i cani hanno una buona comunicazione e relazione tra di loro, cioè fanno parte di un gruppo sociale con una struttura chiara e hanno una stimolazione ambientale costante, hanno un livello di stress basso. Dobbiamo ricordarci che per i cani il pasto è importante perché ha un’importanza sociale e che dopo una situazione faticosa o stressante c’è bisogno sempre di un recupero. Michele infatti dice che dopo una sessione di lavoro è importante un momento sociale: lui con i suoi cani, ad esempio, sta sdraiato in mezzo ad un prato, lui mangiando un panino e loro un osso e poi si addormentano, simula cioè quello che fanno i semiselvatici nei resting sites, in questo modo si rafforzano moltissimo i legami sociali. Poi si può anche simulare la caccia, ad esempio chiamare il nostro cane ad esplorare una tana, perché comunque la caccia è comunicazione tra i due individui che partecipano ad essa.
+
+**Un cane per aiutare un altro cane nelle classi di socializzazione deve avere determinate caratteristiche**: deve prendersi carico della situazione quasi in maniera generosa, deve togliere pressione subito quando l’altro soggetto capisce (istantaneamente!), deve essere “pulito” nell’intervento, deve cambiare strategia a seconda del cane che ha di fronte e della situazione, deve essere gentile nell’approccio e deve avere una comunicazione sottile.
+Un cane sicuro non deve dimostrare niente a nessuno, quindi dopo aver raggiunto una risposta dall’altro cane non aumenta la pressione, ma la toglie in modo istantaneo.
+Un cane buon comunicatore dopo aver raggiunto il suo obiettivo e bloccato il comportamento errato dell’altro soggetto, va da questo per fargli capire che non ce l’ha con lui e che ora è tutto apposto.
+Un cane che comunica bene rispetta un altro cane che non vuole comunicare e non va da lui.
+Un cane può avere un livello alto di aggressività, ma l’aggressività di per sé non è un problema, perché se un cane è forte e sicuro non ha bisogno di dimostrarla. Nel momento che però è stressato o in un determinato contesto questa può diventare un problema.
+
+**L’azione e il suo significato dipende dalla personalità del cane, dalle sue competenze, dall’emozione che prova e dal contesto in cui si trova.**
+
+**E’ importante entrare nella comunicazione del cane, far parte della sua comunicazione, non basta capirla!**
+
+Tutto quello che vi ho scritto, durante il seminario, è supportato da immagini e video strepitosi, dove si vede una comunicazione sottile tra i diversi cani, una comunicazione ricca di significato. Non mi resta quindi che consigliarvi vivamente di partecipare ad un seminario di Michele Minunno, per entrare in un mondo unico!
+
+Concludo ringrando le mie amiche Elisa Marzola e Valeria Ravinale (www.dogsoul.it) per la splendida organizzazione, Michele Minunno per il suo magnifico lavoro, la passione che mette in quello che fa e la sua esposizione estremamente chiara, ma un grazie speciale va a tutti i branchi che ha seguito e che mi hanno permesso di conoscere questo splendido mondo, in particolare grazie a Penelope e Telemaco.

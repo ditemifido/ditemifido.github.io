@@ -1,0 +1,15 @@
+---
+layout: post
+title: Riflessione sulla "fiducia"
+categories: comunicazione, relazione
+permalink: /:year/:month/:day/:title/
+summary: >
+        Mi domando: quali osservazioni sulla relazione tra il cane ed il suo proprietario ci offrono indizi per leggere nel loro intimo, quei suggerimenti utili a decifrare le emozioni che ci parlano della reciproca fiducia?
+tumb: /images/P1020916.jpg
+more: true
+---
+**Cos’è la "fiducia"?** Il mio dizionario recita: “Fiducia, attribuzione di potenzialità conformi ai propri desideri, sostanzialmente motivata da una vera o presunta affinità elettiva”. “Fiducia” è un prestito latino, ha la stessa radice di “fidanzato” e “fido”. Avere fiducia del proprio cane significa condividerne i desideri, significa ritenere che la volontà del cane e la vostra coincidano.
+
+Come tradurre in pratica queste belle parole? Mi domando: quali osservazioni sulla relazione tra il cane ed il suo proprietario ci offrono indizi per leggere nel loro intimo, quei suggerimenti utili a decifrare le emozioni che ci parlano della reciproca fiducia? Questa è una domanda difficile, a cui non è possibile rispondere in modo esauriente senza ridurre l'*aver fiducia* ad una rigida definizione. Forse è più semplice domandarsi quando *non* c’è fiducia, ossia quando tra il proprietario ed il cane appare della diffidenza, il sospetto che i desideri del partner conducano lontani dalla propria volontà.
+
+A queste domande si è risposto in molti modi ed ancora lo si sta facendo, io mi voglio soffermare su alcune delle più elementari osservazioni, per amor di semplicità. La completa fiducia nel proprio cane è una bella utopia: abbiamo un dissonanza ad ogni occasione in cui tratteniamo il cane dal fare qualcosa che noi non vogliamo. Per esempio l’uso del guinzaglio diviene talvolta necessario, come anche l’uscire di casa senza portarsi il cane appresso fa parte della normale routine per molti proprietari. Queste soluzioni non possono essere biasimate, non sarebbe una posizione difendibile, ciò nonostante non dovrebbero nemmeno venir abusate. Se scegliamo di trattenere il cane, la motivazione dovrebbe esserci chiara: sto attraversando la strada, al supermercato i cani non sono ammessi, Fido fa la voce grossa con tutti i maschi… Quando tratteniamo il nostro cane in casa o al guinzaglio, domandiamoci questo: perché lo sto privando della libertà di stare con me, o di muoversi a proprio piacimento? Se la risposta non è ovvia, forse è perché così ci fa *comodo*. Ecco che allora il privare di libertà diventa una soluzione poco elegante, comoda per il proprietario ma triste per la coppia, in quanto indice di divergenza elettiva, che è spesso sinonimo di sfiducia verso il cane nella sua volontà e capacità di affrontare le situazioni offerte dalla vita. Se viceversa, nelle circostanze appropriate, decidiamo di donare libertà al cane, allora facciamolo bene: lavoriamo su noi stessi al fine di comunicare serenità, non ansia, al nostro compagno. Lavoriamo affinché il linguaggio del nostro corpo racconti di una persona fiduciosa del proprio cane, serena e stabile, tanto calma da apparire apparentemente *incurante*.
